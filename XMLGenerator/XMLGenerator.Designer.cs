@@ -62,7 +62,6 @@
             this.txData.Size = new System.Drawing.Size(531, 20);
             this.txData.TabIndex = 1;
             this.txData.Text = "K:\\1.xlsx";
-            this.txData.Leave += new System.EventHandler(this.txData_Leave);
             // 
             // txTemplate
             // 

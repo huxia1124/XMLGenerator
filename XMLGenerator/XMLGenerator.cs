@@ -21,11 +21,6 @@ namespace XMLGenerator
             InitializeComponent();
         }
 
-        private void txData_Leave(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnGenerate_Click(object sender, EventArgs e)
         {
             try
